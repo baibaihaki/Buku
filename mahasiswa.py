@@ -1,2 +1,2 @@
-nama = "Baihaki"
-umur = 23
+nama = ["Baihaki", "Unis"]
+umur = [23, 23]
